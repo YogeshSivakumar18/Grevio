@@ -58,9 +58,6 @@ The GREVIO project applied a structured, systems-thinking and speculative design
 - **Socio-Technical System Mapping**  
   Visualized key flows, tensions, and interactions across actors and devices.
 
-#### WIP Output: *Concern Mapping Portfolio*
-![Week 1 WIP](./60806ff9-caf7-4558-8582-c6cc223b07b4.png)
-
 ### Week 2 – Framing Future Possibilities  
 **Focus:** Envisioning speculative and desirable futures.
 
@@ -73,9 +70,6 @@ The GREVIO project applied a structured, systems-thinking and speculative design
   Plotted probable, plausible, and preferred futures.
 - **Scenario Sketching**  
   Developed visual and narrative descriptions of future procurement systems.
-
-#### WIP Output: *From Uncertainties to Preferred Futures*
-![Week 2 WIP](./8010271f-c13d-4353-8604-7b92f3b19511.png)
 
 ### Week 3 – Prototyping the Intervention  
 **Focus:** Designing GREVIO as a strategic system intervention.
@@ -90,8 +84,6 @@ The GREVIO project applied a structured, systems-thinking and speculative design
 - **Ecosystem Rewiring Map**  
   Showed how GREVIO shifts actor relationships and decision-making flows.
 
-#### WIP Output: *Shaping the Market Device*
-![Week 3 WIP](./e5ab4f5d-4473-4b77-a06d-a1db9d501aae.png)
 
 ### Week 4 – Translation & Real-World Framing  
 **Focus:** Embedding GREVIO into real systems and preparing for stakeholder engagement.
@@ -120,6 +112,17 @@ I served as the **Project Lead**, coordinating a diverse team. My core responsib
 - Led weekly syncs via **MS Teams**, managing communication, stakeholder feedback, and team cohesion.
 
 > These artifacts demonstrate the rigor, foresight, and systems thinking embedded throughout the GREVIO project.
+
+## Repository Contents
+
+- **/Visuals/**  
+  Contains the final GREVIO poster
+
+- **/WIP Outputs/**  
+  Work-in-progress files including:  
+  - Week 1 documentation
+  - Week 2 documentation 
+  - Week 3 documentation  
 
 ## Copyright & Attribution Notice
 
