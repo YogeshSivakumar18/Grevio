@@ -10,7 +10,7 @@ _A DFL25 Project_
 
 ## Why GREVIO Matters?
 
-Public procurement is at a crossroads. Systems currently reinforce exclusion and inefficiency. GREVIO offers a **bridge** to a more just, transparent, and sustainable future—where **small farmers, ethical producers, and public values win**.
+Public procurement is at a crossroads. Ireland’s public food procurement system systematically excludes small, sustainable farmers due to outdated, complex policies favoring industrial suppliers. This undermines national food security, environmental goals, and local economic resilience. Without urgent reform, billions in public funds will continue reinforcing extractive food systems instead of empowering community-rooted, climate-aligned agriculture. GREVIO offers a **bridge** to a more just, transparent, and sustainable future—where **small farmers, ethical producers, and public values win**.
 
 This 4-week project was part of the **DFL25 Challenge** and included deep research, systems thinking, speculative futures, and strategic prototyping.
 
