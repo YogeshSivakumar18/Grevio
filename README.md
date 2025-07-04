@@ -2,7 +2,7 @@
 **Enabling Fair and Sustainable Public Food Procurement**  
 _A DFL25 Project_
 
-![GREVIO Poster](./Grevio-Poster.jpg)
+![GREVIO Poster](./Visuals/Grevio-Poster.jpg)
 
 ## Project Overview
 
